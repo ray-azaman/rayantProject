@@ -1,59 +1,101 @@
 <div align="center">
-  <h1>👋 Hey there, I'm Rayan TRAORE</h1>
-  <p>Welcome to my *cough* amazing Github profile!</p>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
+
+# 👋 Hey there, I'm Rayan TRAORE
+
+**Full-stack developer · IoT tinkerer · Professional Googler**
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="coding gif" />
+
+<a href="https://www.linkedin.com/in/rayan-traore-31094b16b/"><img src="https://img.shields.io/badge/LinkedIn-Rayan%20TRAORE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rayan.traore03@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.instagram.com/rayantraor/"><img src="https://img.shields.io/badge/Instagram-@rayantraor-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
 </div>
 
-<h3>👨‍💻 About Me</h3>
+---
 
-- 🎓 I'm a "future" full-stack developer who's currently learning the ropes.
-- 🤖 I'm into IoT, and I've built a few Raspberry Pi and Arduino projects that... kind of work.
-- 🎨 I'm a big fan of making things look good with CSS, and sometimes, I even use Bootstrap.😂 My favorite UI kit is Material UI.
-- 💬 Feel free to hit me up if you want to chat about anything tech-related.
+## 👨‍💻 About me
 
-<h3>🚀 My Skills</h3>
+- 🎓 Full-stack developer — still learning the ropes, and honestly I hope that never stops.
+- 🤖 Into IoT. I've built a handful of Raspberry Pi and Arduino projects that... kind of work.
+- 🎨 I like making things look good with CSS. Material UI is my favorite kit, Bootstrap when I'm in a hurry. 😂
+- 💬 Hit me up if you want to chat about anything tech-related.
 
+---
 
-- 🌐 I'm proficient in the MERN stack, which includes MongoDB, Express, React, and Node. I enjoy building web apps using this technology stack.
-- 💻 I know HTML, CSS, JS, and PHP. But let's be real, sometimes I'm just too lazy to use them. 😅 Instead, I've been diving headfirst into the MERN stack using TypeScript and JavaScript. 
-- 📱 I can whip up a decent React Native or Swift app, but it'll probably have a few bugs that I'll get around to fixing eventually.
-- 🦾 I can create my own APIs with Express and Node, and I've dabbled in Deno, but only because it was trending on Twitter. I can also use PHP to create APIs, but I don't really like PHP. 
-- 📊 I've used MySQL, PostgreSQL, and MongoDB to store data,  but I prefer MongoDB because it's easier to use.
-- 🤖 I've used Raspberry Pi and Arduino to build some cool projects, but mostly, I just like to play around with LEDs.
-- 🛏️ I use c and c++ to build some cool stuff. 
-- 🐍 do you know python, everybody knows python !, I use it on Raspberry Pi for IoT projects also I use it for Django, create bots, and more.
+## 🚀 Tech I work with
 
-- 🤷‍♂️ Other skills include using Debian to set up web servers, Kali for security testing, and Selenium for web scraping.
+**Languages**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-<!-- <h3>You know what?</h3>
-++++++++++
-- I didn't do all this alone! I had a lot of help from my good friend, Google. 😅 -->
+**Front-end**
 
-<h3>📊 My Stats</h3>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Back-end & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-70FFAF?style=flat-square&logo=deno&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Hardware, tooling & the rest**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### In practice
+
+- 🌐 **MERN is home** — MongoDB, Express, React, Node, mostly in TypeScript these days.
+- 📱 I can ship a decent React Native or Swift app — with a few bugs I'll get around to fixing eventually.
+- 🦾 I build my own APIs with Express and Node. I've dabbled in Deno, but only because it was trending on Twitter. PHP works too, I just don't enjoy it.
+- 📊 MySQL, PostgreSQL and MongoDB for storage — MongoDB wins on ease of use.
+- 🐍 Python everywhere: IoT scripts on the Pi, Django back-ends, bots, and whatever else needs gluing together.
+- 🛠️ C and C++ when I want to get closer to the metal.
+- 🤷‍♂️ Also: Debian for web servers, Kali for security testing, Selenium for scraping.
+
+---
+
+## 📊 My stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayantProject&show_icons=true&theme=dark" alt="Rayan TRAORE's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayantProject&show_icons=true&theme=dark" alt="Rayan TRAORE's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayantProject&layout=compact&theme=dark&hide_progress=true&langs_count=10" alt="Rayan TRAORE's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayantProject&layout=compact&theme=dark&hide_progress=true&langs_count=10" alt="Rayan TRAORE's top languages" />
 </p>
-
-<h3>📫 Let's Connect!</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rayan-traore-31094b16b/"><img src="https://img.shields.io/badge/-Rayan%20TRAORE-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:rayan.traore03@gmail.com"><img src="https://img.shields.io/badge/-rayan.traore03@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rayantProject&theme=onedark" alt="GitHub trophies" />
 </p>
 
-<h3>
-  fun fact: 
-</h3>
+---
 
+## 🎉 Fun facts
 
-- I do not know how to use markdown, I just copy and paste from other people's profiles. 
-- I have a lot of projects that I haven't uploaded to GitHub yet. I'll get around to it eventually.
-- I have a goods pics of me, get my instagram:[@rayantraor](https://www.instagram.com/rayantraor/)
+- I said I didn't know markdown and copy-pasted from other profiles. Look at me now.
+- I have a lot of projects that aren't on GitHub yet. I'll get around to it eventually.
+- I take decent pictures of myself — proof on [Instagram](https://www.instagram.com/rayantraor/).
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rayantProject&theme=onedark)
+<div align="center">
+  <sub>Thanks for stopping by! ⭐</sub>
+</div>
